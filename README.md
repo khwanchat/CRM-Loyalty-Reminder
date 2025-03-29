@@ -2,6 +2,11 @@
 
 A simple yet powerful Streamlit app to simulate a **loyalty reminder campaign** based on point expiration. Designed for marketers and CRM teams looking to build data-driven outreach strategies.
 
+## 🚀 Live App
+
+Check out the deployed dashboard here:  
+👉 [RFM Segmentation Dashboard](https://crm-loyalty-reminder-6qefpdrqg4icqpktsmb7lv.streamlit.app/)
+
 ---
 
 ## ✨ Features
