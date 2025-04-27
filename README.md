@@ -5,7 +5,7 @@ A simple yet powerful Streamlit app to simulate a **loyalty reminder campaign** 
 ## 🚀 Live App
 
 Check out the deployed dashboard here:  
-👉 [RFM Segmentation Dashboard](https://crm-loyalty-reminder-6qefpdrqg4icqpktsmb7lv.streamlit.app/)
+👉 [CRM Loyalty Data Dashboard](https://crm-loyalty-reminder-6qefpdrqg4icqpktsmb7lv.streamlit.app/)
 
 ---
 
